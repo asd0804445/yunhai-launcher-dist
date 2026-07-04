@@ -1,0 +1,8 @@
+{
+  "versionCode": 1000,
+  "versionName": "雲海紀元 1.0",
+  "url": "https://github.com/asd0804445/yunhai-launcher-dist/releases/download/v1.0/YunHaiLauncher.exe",
+  "sha256": "1eb282dd4c62e30e7a29b4abcd2883db0f06898067cf76028dcc7346c1d8fd6d",
+  "mandatory": false,
+  "notice": "雲海紀元啟動器 1.0：內建正版登入、鎖定伺服器、預設繁體中文，並加入自動更新。"
+}
